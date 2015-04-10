@@ -1,0 +1,27 @@
+.magenta {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #FFOOFF; text-decoration: none; line-height: 12px}
+a.magenta:link {  text-decoration: none; color: #333333}
+a.magenta:hover  {  text-decoration: none; color: #FF00FF}
+a.magenta:active  {  text-decoration: underline; color: #000000}
+a.magenta:visited {  text-decoration: none; color: #999999}
+a.magenta:visited:hover { text-decoration: none; color: #FF00FF}
+a.magenta:visited:active  {  text-decoration: none; color: #000000}
+
+.green {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #0ACC00; text-decoration: none; line-height: 12px}
+a.green:link {  text-decoration: none; color: #333333}
+a.green:hover  {  text-decoration: none; color: #0ACC00}
+a.green:active  {  text-decoration: underline; color: #000000}
+a.green:visited {  text-decoration: none; color: #999999}
+a.green:visited:hover { text-decoration: none; color: #0ACC00}
+a.green:visited:active  {  text-decoration: none; color: #000000}
+
+.orange {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #FC7E08; text-decoration: none; line-height: 12px}
+a.orange:link {  text-decoration: none; color: #333333}
+a.orange:hover  {  text-decoration: none; color: #FC7E08}
+a.orange:active  {  text-decoration: underline; color: #000000}
+a.orange:visited {  text-decoration: none; color: #999999}
+a.orange:visited:hover { text-decoration: none; color: #FC7E08}
+a.orange:visited:active  {  text-decoration: none; color: #000000}
+
+.blacktext {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #000000; text-decoration: none; line-height: 12px}
+
+--a.orange:visited:selected {  text-decoration: none; font-weight: bold}
