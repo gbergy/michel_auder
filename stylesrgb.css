@@ -1,4 +1,59 @@
-.magenta {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #FFOOFF; text-decoration: none; line-height: 12px}
+/**** Global  ****/
+nav {
+	margin: 5% 5% 0 5%;
+}
+
+nav a {
+	margin: 2px;
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	line-height: 12px;
+	padding: 2px 4px;
+}
+
+#name {
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+
+#onview {
+
+}
+
+a {
+	color: #000;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
+	font-size: 10px; 
+	text-decoration: none; 
+	line-height: 12px
+}
+
+a:hover {
+	color: #DFD3D3;
+}
+
+#container {
+	margin-left: 6%;
+	float: left;
+	position: relative;
+	top: 50px;
+	margin-bottom: 20px;
+}
+
+
+
+.blacktext {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #000000; text-decoration: none; line-height: 12px}
+
+
+
+
+
+
+
+
+
+/*.magenta {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #FFOOFF; text-decoration: none; line-height: 12px}
 a.magenta:link {  text-decoration: none; color: #333333}
 a.magenta:hover  {  text-decoration: none; color: #FF00FF}
 a.magenta:active  {  text-decoration: underline; color: #000000}
@@ -22,6 +77,6 @@ a.orange:visited {  text-decoration: none; color: #999999}
 a.orange:visited:hover { text-decoration: none; color: #FC7E08}
 a.orange:visited:active  {  text-decoration: none; color: #000000}
 
-.blacktext {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 10px; color: #000000; text-decoration: none; line-height: 12px}
 
---a.orange:visited:selected {  text-decoration: none; font-weight: bold}
+*/
+/*--a.orange:visited:selected {  text-decoration: none; font-weight: bold}*/
