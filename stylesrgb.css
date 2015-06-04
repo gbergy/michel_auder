@@ -19,6 +19,7 @@ nav a {
 	font-size: 16px;
 	line-height: 12px;
 	padding: 2px 4px;
+	color: #000;
 }
 
 table {
@@ -30,8 +31,13 @@ table {
 	margin-bottom: 5px;
 }
 
-#onview {
+.onview {
+	font-weight: bold;
+}
 
+body {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
+	font-size: 16px; 
 }
 
 a {
@@ -39,11 +45,16 @@ a {
 	font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; 
 	font-size: 16px; 
 	text-decoration: none; 
-	line-height: 20px
+	line-height: 20px;
+	color: #7482B8;
 }
 
 a:hover {
 	color: #DFD3D3;
+}
+
+.date {
+	display: block;
 }
 
 #container {
